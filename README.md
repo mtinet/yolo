@@ -7,3 +7,4 @@
 ### yolo v3 :
 #### - [yolov3.weights 다운로드 링크](https://drive.google.com/open?id=1Z0TKr0cxSqp4h3GBAUq2qfH5Ue-D7e5Q)  
 
+* 해당 프로젝트 폴더의 다운로드 링크에 있는 model파일 또는 weight파일을 다운로드 받아야 사용할 수 있음  
